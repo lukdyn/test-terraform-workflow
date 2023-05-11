@@ -1,3 +1,3 @@
-def hello_world():
+def witaj_swiecie():
     print('Witaj, świecie!')
-hello_world()
+witaj_swiecie()
